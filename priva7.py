@@ -7,3 +7,7 @@ def set(m):
 
 def sethola():
     print('hola')
+
+
+def sethola2():
+    print('hola2')
